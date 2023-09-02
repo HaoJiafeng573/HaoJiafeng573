@@ -82,14 +82,6 @@
 <br/>
 
 
-
-## 联系我
-<div align="center">
-<a href="https://haojiafeng573.github.io/" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>  
-</div>  
-  
 ### 个人技术栈
  -  熟练掌握Java基础，熟悉JUC、反射、常用集合源码，如HashMap、ArrayList等，具备良好的编程习惯
  -  熟悉计算机网络基础知识，对OSI七层网络模型、HTTP协议、TCP协议、三次挥手四次握手等有一定了解 
@@ -103,6 +95,16 @@
  -	了解常用消息中间件如RabbitMQ、Kafka，具备实现消息的异步处理和解耦的能力，提升系统性能和可扩展性
  -	了解SpringCloud框架、Nacos注册中心、Gateway网关、Feign等组件
  - 🤝 当然除了Java的技术栈之外，在大学期间还学习了很多的其他语言做了许多的项目，具体的直接看下面的项目吧
+<br/>
+
+## 联系我
+<div align="center">
+<a href="https://haojiafeng573.github.io/" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>  
+</div>  
+  
+
 
   
   
