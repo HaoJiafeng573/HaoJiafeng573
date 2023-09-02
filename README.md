@@ -91,11 +91,10 @@
 
 
 ## 联系我
-<div align="center">
-<a href="https://haojiafeng573.github.io/" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>  
-</div>  
+
+- GitHub: [https://github.com/jyt0921](https://github.com/jyt0921)
+- 邮箱: [2314529506@qq.com]
+ 
   
 
 
