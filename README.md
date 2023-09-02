@@ -65,6 +65,14 @@
 
 •本科四年就读于石家庄铁道大学软件工程系，学过Java，python，C++等语言。掌握前后端开发技术，主要是web开发。
 
+<br/>
+
+##  社会活动情况
+
+
+•参加过志愿活动，获得过优秀志愿者称号。
+
+
 ## 联系我
 <div align="center">
 <a href="https://haojiafeng573.github.io/" target="_blank">
