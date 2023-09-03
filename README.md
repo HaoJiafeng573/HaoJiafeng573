@@ -71,12 +71,12 @@
 ### 开发的项目
 
 - 项目
-  - [1](https://github.com/HaoJiafeng573/Elderly-Ability-Assessment-System)  
-  - [2](https://github.com/HaoJiafeng573/Software)
-  - [3](https://github.com/HaoJiafeng573/Big-data)
-  - [4](https://github.com/HaoJiafeng573/Online-shopping)
-  - [5](https://github.com/HaoJiafeng573/PSI) 
-  - [6](https://github.com/HaoJiafeng573/shop)...
+  - [1 Java项目1](https://github.com/HaoJiafeng573/Elderly-Ability-Assessment-System)  
+  - [2 Java项目2](https://github.com/HaoJiafeng573/Software)
+  - [3 大数据](https://github.com/HaoJiafeng573/Big-data)
+  - [4 PHP项目](https://github.com/HaoJiafeng573/Online-shopping)
+  - [5 C#项目1](https://github.com/HaoJiafeng573/PSI) 
+  - [6 C#项目2](https://github.com/HaoJiafeng573/shop)...
  
 
 
